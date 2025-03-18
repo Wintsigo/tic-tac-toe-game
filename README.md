@@ -1,6 +1,4 @@
 <<<<<<< HEAD
-# tic-tac-toe-game
-just a game of tic tac toe
 =======
 # Tic-Tac-Toe Game
 
